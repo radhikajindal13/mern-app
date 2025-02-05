@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
 ![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
@@ -35,3 +36,6 @@ npm run build
 ```shell
 npm start
 ```
+=======
+# mern-app
+>>>>>>> 4d4eabbe6b90bd17a436b3d3e78598729a465058
